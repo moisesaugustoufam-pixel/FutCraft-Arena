@@ -1,0 +1,2 @@
+# FutCraft-Arena
+server
